@@ -1,6 +1,5 @@
 Let's change a setting in macOS.
 `plist` has generated this `PlistBuddy` command.
-Now, let's run the command... Bam!
+Let's run it... Bam!
 But nothing happens.
-That's because you need to restart the Mac.
-And the Dock's gone!
+But if you restart your Mac, the Dock's gone!
