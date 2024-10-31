@@ -1,6 +1,6 @@
 Let's change a setting in macOS.
-`plist` has generated this `PlistBuddy` command.
+`p-list` has generated this `P-listBuddy` command.
 Let's run it... Bam!
 But nothing happens.
 But if you restart your Mac, the Dock's gone!
-But you wouldn't clap yet. Because making something disappear isn't enough; you have to bring it back.
+But you wouldn't clap yet. Because making something disappear isn't enough; you have to bring it... back.
